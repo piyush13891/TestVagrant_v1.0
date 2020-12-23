@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  
+  <listeners>
+  	<listener class-name="Util.TestListener"></listener>
+  </listeners>
+  
+  <parameter name="city" value="Rajkot"/>  
+  <test name="Test">
+    <classes>
+      <class name="com.TestVagrant.assignment.IntegrationTests"/>
+    </classes>
+  </test>
+</suite>

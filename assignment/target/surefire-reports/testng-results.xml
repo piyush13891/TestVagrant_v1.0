@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3487" started-at="2020-12-23T11:49:32Z" finished-at="2020-12-23T11:49:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3487" started-at="2020-12-23T11:49:32Z" finished-at="2020-12-23T11:49:36Z">
+      <class name="com.TestVagrant.assignment.NewTest">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.TestVagrant.assignment.NewTest@6dfcffb5]" name="Test1" duration-ms="3458" started-at="2020-12-23T11:49:32Z" finished-at="2020-12-23T11:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.TestVagrant.assignment.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
